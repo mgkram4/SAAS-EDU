@@ -1,5 +1,5 @@
 
-import { Course, Lesson, ProgressType } from '@/types/course';
+import { Course, Lesson, } from '@/types/course';
 
 import { useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from './ui/Card';
